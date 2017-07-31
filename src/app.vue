@@ -51,6 +51,7 @@ export default {
             calendar1:{
                 value:[2018,2,16], //默认日期
                 // lunar:true, //显示农历
+                type "datetime",
                 weeks:['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
                 months:['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
                 events:{
